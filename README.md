@@ -292,3 +292,7 @@ sha256sum -c SHA256SUMS --ignore-missing
 
 For the compressed image, `SHA256SUMS` records the hash of the `.zst` file and the raw decompressed `.img`.
 
+
+## Final notes
+
+Screw you, ASUS
