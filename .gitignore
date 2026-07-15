@@ -1,0 +1,6 @@
+work/
+*.img
+!images/vbmeta_flags3_empty_64k.img
+edl-venv/
+__pycache__/
+.DS_Store
